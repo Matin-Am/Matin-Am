@@ -1,5 +1,5 @@
 ### About Me
--Backend Developer specializing in the Django framework. I design and build reliable backend systems and APIs using Python, focusing on performance and scalability.
+- Backend Developer specializing in the Django framework. I design and build reliable backend systems and APIs using Python, focusing on performance and scalability.
 - Strong focus on clean code and reusable component
 ### 🛠 Tech Stack & Tools
 
