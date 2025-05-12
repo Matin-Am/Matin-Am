@@ -1,11 +1,6 @@
 ### About Me
-
-I'm a self-taught web developer with a passion for building full-stack applications using Django and React.  
-Currently learning DevOps tools and contributing to open-source projects.
-
-- Python & Django enthusiast
-- Strong focus on clean code and reusable components
-- Interested in backend development and system design
+-Backend Developer specializing in the Django framework. I design and build reliable backend systems and APIs using Python, focusing on performance and scalability.
+- Strong focus on clean code and reusable component
 ### 🛠 Tech Stack & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
